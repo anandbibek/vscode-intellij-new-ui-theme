@@ -18,7 +18,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "JetBrains IDEA New UI",
+        "label": "IntelliJ IDEA New UI",
         "uiTheme": "vs",
         "path": "./themes/intellij-new-ui-color-theme.json"
       }
