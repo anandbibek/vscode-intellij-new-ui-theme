@@ -1,5 +1,7 @@
 # IntelliJ IDEA New UI Theme
 
+[Download from VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=AnandaBibekRay.intellij-idea-new-ui-theme)
+
 Tried to emulate IntelliJ new gen theme (light). The aim is to achieve similar look and feel as IntelliJ IDEA along with keeping distractions to a minimum. 
 
 
