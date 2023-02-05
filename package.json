@@ -1,0 +1,24 @@
+{
+  "name": "intellij-idea-new-ui-theme",
+  "publisher": "anandabibek",
+  "displayName": "IntelliJ IDEA New UI Theme",
+  "description": "VSCode theme emulating IntelliJ IDEA new UI theme (light)",
+  "icon": "images/icons8-intellij-idea-256.png",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JetBrains IDEA New UI",
+        "uiTheme": "vs",
+        "path": "./themes/intellij-new-ui-color-theme.json"
+      }
+    ]
+  },
+  "keywords": ["jetbrains","intellij","idea","light","new"]
+}
