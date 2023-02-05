@@ -8,7 +8,7 @@ _Work in progress. Expect updates._
 
 ## Preview
 
-![alt](https://icons8.com/icon/F7REdHlg6KJX/intellij-idea)
+![alt](https://github.com/anandbibek/vscode-intellij-new-ui-theme/blob/main/images/scrn1.png)
 
 
 ## Credits and Attributions
