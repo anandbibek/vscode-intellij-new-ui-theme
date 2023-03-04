@@ -56,8 +56,8 @@
 
 		//right minimap and gutter
 		"minimap.background": "#F7F8FA",
-		"minimapSlider.background": "#A6D2FF33",
-		"scrollbarSlider.background": "#A6D2FF33",
+		"minimapSlider.background": "#3a3a3a33",
+		"scrollbarSlider.background": "#3a3a3a33",
 		"editorOverviewRuler.background": "#F7F8FA",
 		"editorOverviewRuler.border": "#F7F8FA",
 
@@ -76,13 +76,19 @@
 		"statusBarItem.remoteForeground": "#000",
 		"statusBar.debuggingBackground": "#5EB563",
 		"statusBar.debuggingForeground": "#000",
-		"statusBar.debuggingBorder": "#EBECF0",
+		"statusBar.debuggingBorder": "#000",
 
 		//title bar
 		"titleBar.activeBackground": "#27282E",
 		"titleBar.inactiveBackground": "#383A42",
 		"titleBar.activeForeground": "#E7EBED",
 		"titleBar.border": "#27282E",
+
+		"commandCenter.border": "#27282E",
+		"commandCenter.activeBorder": "#27282E",
+		"commandCenter.inactiveBorder": "#383A42",
+		"commandCenter.background": "#3369d6",
+		"commandCenter.activeBackground": "#2e5ec1",
 
 		// panel 
 		"panel.border": "#EBECF0",
