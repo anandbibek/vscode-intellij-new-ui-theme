@@ -19,14 +19,12 @@
 		"editor.lineHighlightBackground": "#F5F8FE",
 		"editor.selectionBackground": "#A6D2FF",
 		"editor.wordHighlightStrongBackground": "#FCD8E87F",
-		//"editor.wordHighlightStrongBackground": "#FCE8F4",
 		"editor.wordHighlightBackground": "#DDDBFC80",
-		//"editor.wordHighlightBackground": "#EDEBFC",
 		"editor.selectionHighlightBackground": "#DDDBFC7F",
-		//"editor.selectionHighlightBackground": "#EDEBFC",
 		"editor.findMatchBackground": "#A6D2FF",
+		"editor.findMatchBorder": "#0004",
 		"editor.findMatchHighlightBackground": "#FCBD3866",
-		//"editor.findMatchHighlightBackground": "#FCD47E",
+		
 		// editor tabs and widgets
 		"editorGroupHeader.tabsBackground": "#F7F8FA",
 		"editorGroupHeader.noTabsBackground": "#F7F8FA",
@@ -38,7 +36,6 @@
 		"editorIndentGuide.background": "#EBECF0",
 		"editorWidget.border": "#EBECF0",
 		"editorWidget.background": "#F7F8FA",
-		"tree.indentGuidesStroke": "#AEB3C2",
 
 		// sidebar
 		"sideBar.background": "#F7F8FA",
@@ -46,13 +43,16 @@
 		"sideBar.border": "#EBECF0",
 		"sideBarSectionHeader.background": "#F7F8FA",
 		"sideBarSectionHeader.border": "#EBECF0",
+		"tree.indentGuidesStroke": "#AEB3C2",
 
 		// tab
 		"tab.inactiveBackground": "#F7F8FA",
 		"tab.inactiveForeground": "#777",
+		"tab.activeForeground": "#000",
+		"tab.hoverForeground": "#000",
 		"tab.activeBorder": "#005bc3",
 		"tab.activeBackground": "#F9FEF9",
-		"tab.border": "#fafafa",
+		"tab.border": "#EBECF0",
 
 		//right minimap and gutter
 		"minimap.background": "#F7F8FA",
@@ -75,8 +75,8 @@
 		"statusBarItem.remoteBackground": "#F7F8FA",
 		"statusBarItem.remoteForeground": "#000",
 		"statusBar.debuggingBackground": "#5EB563",
+		//"statusBar.debuggingBorder": "#5EB563",
 		"statusBar.debuggingForeground": "#000",
-		"statusBar.debuggingBorder": "#000",
 
 		//title bar
 		"titleBar.activeBackground": "#27282E",
@@ -111,6 +111,10 @@
 		
 		// debugging
 		"debugToolBar.background": "#F7F8FA",
+
+		//scm decor
+		"gitDecoration.modifiedResourceForeground": "#0050c1",
+        "gitDecoration.addedResourceForeground": "#3e7718",
 
 		//terminal colors taken from solarized palette
 		"terminal.background":"#FFF",
